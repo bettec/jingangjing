@@ -6,4 +6,5 @@
 * [【金刚经浅尝】第二章 大弟子须菩提请法](jin-gang-jing-qian-chang-di-er-zhang-da-di-zi-xu-pu-ti-qing-fa.md)
 * [【金刚经浅尝】第三章修行了悟](jin-gang-jing-qian-chang-di-san-zhang-xiu-hang-le-wu.md)
 * [【金刚经浅尝】第四章 布施应无所住](jin-gang-jing-qian-chang-di-si-zhang-bu-shi-ying-wu-suo-zhu.md)
+* [【金刚经浅尝】第五章 如何见到实相](jin-gang-jing-qian-chang-di-wu-zhang-ru-he-jian-dao-shi-xiang.md)
 
