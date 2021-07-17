@@ -1,5 +1,7 @@
 # 首页
 
+![](.gitbook/assets/screen-shot-2021-07-11-at-11.26.05-am.png)
+
 《金刚经浅尝》系列最早发布于 Omni 无一 公众号（omniwuyi）。此系列也免费发布于 Gitbook，👇伙伴们可以通过[此网站](https://jingangjing.omnione.live)免费在线阅读。
 
 《金刚经浅尝》所有资源都享受开源知识共享许可版权。
