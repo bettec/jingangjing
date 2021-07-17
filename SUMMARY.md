@@ -7,4 +7,5 @@
 * [【金刚经浅尝】第三章修行了悟](jin-gang-jing-qian-chang-di-san-zhang-xiu-hang-le-wu.md)
 * [【金刚经浅尝】第四章 布施应无所住](jin-gang-jing-qian-chang-di-si-zhang-bu-shi-ying-wu-suo-zhu.md)
 * [【金刚经浅尝】第五章 如何见到实相](jin-gang-jing-qian-chang-di-wu-zhang-ru-he-jian-dao-shi-xiang.md)
+* [【金刚经浅尝】第六章 正信之心](jin-gang-jing-qian-chang-di-liu-zhang-zheng-xin-zhi-xin.md)
 
