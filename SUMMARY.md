@@ -18,4 +18,5 @@
 * [【金刚经浅尝】第十四章 忍辱修行](jin-gang-jing-qian-chang-di-shi-si-zhang-ren-ru-xiu-hang.md)
 * [【金刚经浅尝】第十五章 修炼经典](jin-gang-jing-qian-chang-di-shi-wu-zhang-xiu-lian-jing-dian.md)
 * [【金刚经浅尝】第十六章 消除业力](jin-gang-jing-qian-chang-di-shi-liu-zhang-xiao-chu-ye-li.md)
+* [【金刚经浅尝】第十七章 无我的境界](jin-gang-jing-qian-chang-di-shi-qi-zhang-wu-wo-de-jing-jie.md)
 
