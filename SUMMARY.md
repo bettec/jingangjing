@@ -15,4 +15,6 @@
 * [【金刚经浅尝】第十一章 无为福高于一切](jin-gang-jing-qian-chang-di-shi-yi-zhang-wu-wei-fu-gao-yu-yi-qie.md)
 * [【金刚经浅尝】第十二章 尊重正教](jin-gang-jing-qian-chang-di-shi-er-zhang-zun-zhong-zheng-jiao.md)
 * [【金刚经浅尝】第十三章 修炼佛法](jin-gang-jing-qian-chang-di-shi-san-zhang-xiu-lian-fo-fa.md)
+* [【金刚经浅尝】第十四章 忍辱修行](jin-gang-jing-qian-chang-di-shi-si-zhang-ren-ru-xiu-hang.md)
+* [【金刚经浅尝】第十五章 修炼经典](jin-gang-jing-qian-chang-di-shi-wu-zhang-xiu-lian-jing-dian.md)
 
