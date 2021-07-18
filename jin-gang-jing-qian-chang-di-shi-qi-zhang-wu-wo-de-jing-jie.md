@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCZFDFZ0Da8ljCShdftQe2emWF9VhBXicIoiaQGd3g33V3qWpuQh5c6Zw5HlhGssqXUrJIn4YeA5aBKw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
