@@ -9,4 +9,5 @@
 * [【金刚经浅尝】第五章 如何见到实相](jin-gang-jing-qian-chang-di-wu-zhang-ru-he-jian-dao-shi-xiang.md)
 * [【金刚经浅尝】第六章 正信之心](jin-gang-jing-qian-chang-di-liu-zhang-zheng-xin-zhi-xin.md)
 * [【金刚经浅尝】第七章 佛法不可说](jin-gang-jing-qian-chang-di-qi-zhang-fo-fa-bu-ke-shuo.md)
+* [【金刚经浅尝】第八章 佛法生智慧](jin-gang-jing-qian-chang-di-ba-zhang-fo-fa-sheng-zhi-hui.md)
 
