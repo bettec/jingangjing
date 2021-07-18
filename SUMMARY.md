@@ -11,4 +11,5 @@
 * [【金刚经浅尝】第七章 佛法不可说](jin-gang-jing-qian-chang-di-qi-zhang-fo-fa-bu-ke-shuo.md)
 * [【金刚经浅尝】第八章 佛法生智慧](jin-gang-jing-qian-chang-di-ba-zhang-fo-fa-sheng-zhi-hui.md)
 * [【金刚经浅尝】第九章 修行无相](jin-gang-jing-qian-chang-di-jiu-zhang-xiu-hang-wu-xiang.md)
+* [【金刚经浅尝】第十章 庄严净土](jin-gang-jing-qian-chang-di-shi-zhang-zhuang-yan-jing-tu.md)
 
