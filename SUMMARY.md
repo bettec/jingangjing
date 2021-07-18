@@ -24,4 +24,5 @@
 * [【金刚经浅尝】第二十章 不住于色相](jin-gang-jing-qian-chang-di-er-shi-zhang-bu-zhu-yu-se-xiang.md)
 * [【金刚经浅尝】第二十一章 其实无法可说](jin-gang-jing-qian-chang-di-er-shi-yi-zhang-qi-shi-wu-fa-ke-shuo.md)
 * [【金刚经浅尝】第二十二章 无法可得](jin-gang-jing-qian-chang-di-er-shi-er-zhang-wu-fa-ke-de.md)
+* [【金刚经浅尝】第二十三章 净心行善](jin-gang-jing-qian-chang-di-er-shi-san-zhang-jing-xin-hang-shan.md)
 
