@@ -13,4 +13,5 @@
 * [【金刚经浅尝】第九章 修行无相](jin-gang-jing-qian-chang-di-jiu-zhang-xiu-hang-wu-xiang.md)
 * [【金刚经浅尝】第十章 庄严净土](jin-gang-jing-qian-chang-di-shi-zhang-zhuang-yan-jing-tu.md)
 * [【金刚经浅尝】第十一章 无为福高于一切](jin-gang-jing-qian-chang-di-shi-yi-zhang-wu-wei-fu-gao-yu-yi-qie.md)
+* [【金刚经浅尝】第十二章 尊重正教](jin-gang-jing-qian-chang-di-shi-er-zhang-zun-zhong-zheng-jiao.md)
 
