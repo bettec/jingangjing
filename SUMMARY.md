@@ -21,4 +21,5 @@
 * [【金刚经浅尝】第十七章 无我的境界](jin-gang-jing-qian-chang-di-shi-qi-zhang-wu-wo-de-jing-jie.md)
 * [【金刚经浅尝】第十八章 明心见性](jin-gang-jing-qian-chang-di-shi-ba-zhang-ming-xin-jian-xing.md)
 * [【金刚经浅尝】第十九章 修得智慧福德](jin-gang-jing-qian-chang-di-shi-jiu-zhang-xiu-de-zhi-hui-fu-de.md)
+* [【金刚经浅尝】第二十章 不住于色相](jin-gang-jing-qian-chang-di-er-shi-zhang-bu-zhu-yu-se-xiang.md)
 
