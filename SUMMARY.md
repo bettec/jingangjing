@@ -10,4 +10,5 @@
 * [【金刚经浅尝】第六章 正信之心](jin-gang-jing-qian-chang-di-liu-zhang-zheng-xin-zhi-xin.md)
 * [【金刚经浅尝】第七章 佛法不可说](jin-gang-jing-qian-chang-di-qi-zhang-fo-fa-bu-ke-shuo.md)
 * [【金刚经浅尝】第八章 佛法生智慧](jin-gang-jing-qian-chang-di-ba-zhang-fo-fa-sheng-zhi-hui.md)
+* [【金刚经浅尝】第九章 修行无相](jin-gang-jing-qian-chang-di-jiu-zhang-xiu-hang-wu-xiang.md)
 
