@@ -30,4 +30,5 @@
 * [【金刚经浅尝】第二十六章 生命本质无形无相](jin-gang-jing-qian-chang-di-er-shi-liu-zhang-sheng-ming-ben-zhi-wu-xing-wu-xiang.md)
 * [【金刚经浅尝】第二十七章 生命无止境](jin-gang-jing-qian-chang-di-er-shi-qi-zhang-sheng-ming-wu-zhi-jing.md)
 * [【金刚经浅尝】第二十九章 如如不动](jin-gang-jing-qian-chang-di-er-shi-jiu-zhang-ru-ru-bu-dong.md)
+* [【金刚经浅尝】第三十章 一合相](jin-gang-jing-qian-chang-di-san-shi-zhang-yi-he-xiang.md)
 
