@@ -4,9 +4,9 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.04.58-pm.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCZFDFZ0Da8ljCShdftQe2emWF9VhBXicIoiaQGd3g33V3qWpuQh5c6Zw5HlhGssqXUrJIn4YeA5aBKw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.05.11-pm.png)
 
 到这一章，金刚经一共三十二章已经过半了。前半部分由须菩提询问佛陀发了大彻大悟成佛之心后，如何修行、如何安置自己的内心以达到那种清净成佛的境界开始。**这一章，须菩提又问了一遍同样的问题 - “云何应住？云何降伏其心？”，难道是没有搞懂？**须菩提其实是为大家问的问题，其实读经至此**我们觉得我们自己懂了，但也许只是似懂非懂**。这一章释迦摩尼对同样的问题给出了不一样、更深的回答。接下来我们一句一句地讲解。
 
