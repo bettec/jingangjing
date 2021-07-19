@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCbwIak0wqdMQYFVKKnBFNCiahFRfUGJlPWUm7pyvj951erVC9gterV1XmmGFUgsQmdLH3h4SiaE4mKw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/image%20%286%29.png)
 
 布施（利他）也是有境界级别之分的，舍去自己舍不得的（比如钱财和身体性命）已是难得，而更难得的是自己能够大彻大悟、获得大智慧、了悟生命的本质，并能够将此布施、给予、度化他人。接下来我们一句一句的讲解。
 
