@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCZg6wskLhwcAdjGWevC9Unv1N6OkiaaJWRSN5sSfPI0645lGlEsPPjNYLeFSAiaqtpb5icuzY5pfqMzg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.11.18-pm.png)
 
 贯穿整个金刚经，释迦摩尼的教导都是**善心要发、善法要修、善事要做，但发完、修完、做完还得完全不留痕迹，没有执着妄念，才算圆满完结**。这一章主要是讲度化（或无所度化）的正确姿势。接下来我们一句一句地讲解。
 
