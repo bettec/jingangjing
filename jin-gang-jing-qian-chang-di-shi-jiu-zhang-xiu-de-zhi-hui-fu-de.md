@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCZCMCL7J9POnpItkSZbv79j4zCAqlsKxibTiaGD7HS6eWb8OoM04wlogg25z9DxKmh2gaaGiagpiaUBzw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.08.01-pm.png)
 
 释迦摩尼继续自问自答，从三心不可得，进而讲解什么是真正的福德。也许很多人期许的福德是钱多、命长、子孙好，即便已经全然拥有了这些，也不是真正的福德，**因为有生就有死、钱能多也会少、子孙也不可能永恒的好，执着于这样的福德，也是自寻烦恼**。接下来我们一句一句地讲解。
 
