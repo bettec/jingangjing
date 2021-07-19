@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCYBvg1QDbJpWFbWwfDv0uRoNLHlbsPica17iauPrZXrqPyGeIz3qTsl7QGaPicHZ4icWxibbKbaOyCGPIg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.13.03-pm.png)
 
 这一章比较深刻，释迦摩尼说真实的实相世界是永恒存在的，也就是一合相，但这个说不得，没有领悟到生命本质的我们，大都生活在虚幻相之中，却希望牢牢的握住变幻无常的表相。接下来我们一句一句地讲解。
 
