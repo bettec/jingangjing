@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCa51CtibanrgAy5eXDD3B6DGahPVqCSL2GibPJPZWgfcRjU41IWibXg0PyF7exS9IUs6EaicjKTDmhf4g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.10.19-pm.png)
 
 我们总觉得自己是特别的，总觉得自己修行的方法更好，自己的上师更开悟，但释迦摩尼告诉我们**“是法平等” - 一切善法都可以帮助我们成长、了悟更多生命真谛**，一切善法都得修炼习得。接下来我们一句一句地讲解。
 
