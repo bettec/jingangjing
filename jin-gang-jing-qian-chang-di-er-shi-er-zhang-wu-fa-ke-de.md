@@ -4,7 +4,7 @@
 
 （点击👆文件，打开新的页面，然后点`观看` 进行收听\)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/xws7d9qricCa51CtibanrgAy5eXDD3B6DGD5iaDtEO6gPvznYXGIOic2SKRrrqDlndnia0BbHKx0cibXeT4h9bOrS2OA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/screen-shot-2021-07-19-at-12.09.30-pm.png)
 
 上一章释迦摩尼讲无法可说，这一章又进了一步讲无法可得，我们追求真理、追求了悟、追求成长，要知道**真理、了悟、成长都不是个东西，都无法获得，只能自己体会、参透、体验**。接下来我们一句一句地讲解。
 
